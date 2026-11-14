@@ -2,12 +2,12 @@
 
 <!-- Header Banner -->
 <a href="https://github.com/CodeGemVault">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=34&amp;duration=4000&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=100&amp;lines=CodeGemVault;High-Efficiency+Repository+Hub;Modular.+Zero+Bloat.+Any+Domain." alt="CodeGemVault Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=34&amp;duration=4000&amp;pause=1000&amp;color=2694AB&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=100&amp;lines=CodeGemVault;High-Efficiency+Repository+Hub;Modular.+Zero+Bloat.+Any+Domain." alt="CodeGemVault Header" />
 </a>
 
 <!-- Dynamic Typing Tagline -->
 <a href="https://github.com/CodeGemVault">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Curated+vault+of+high-efficiency+repositories;Engineered+for+AI-assisted+development;Modular+tools.+Zero+bloat.+Any+domain." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=D97925&center=true&vCenter=true&width=620&lines=Curated+vault+of+high-efficiency+repositories;Engineered+for+AI-assisted+development;Modular+tools.+Zero+bloat.+Any+domain." alt="Typing SVG" />
 </a>
 
 <br/>
