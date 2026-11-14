@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b0764,100:0891b2&height=210&section=header&text=CodeGemVault&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=High-Efficiency%20Repositories%20%26%20AI-Ready%20Codebases&descAlignY=58&descSize=16&animation=fadeIn" alt="CodeGemVault Banner" />
+<a href="https://github.com/CodeGemVault">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=34&amp;duration=4000&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=100&amp;lines=CodeGemVault;High-Efficiency+Repository+Hub;Modular.+Zero+Bloat.+Any+Domain." alt="CodeGemVault Header" />
+</a>
 
 <!-- Dynamic Typing Tagline -->
 <a href="https://github.com/CodeGemVault">
